@@ -70,12 +70,12 @@ p {
 
 /*top banner*/
 .top-banner {
-  background-image: url("D:/MY PROFILE SITE/PERSONAL WEBSITE/images/header-bg.png");
+  background-image: url("images/header-bg.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
 .top-banner2 {
-  background-image: url("D:/MY PROFILE SITE/PERSONAL WEBSITE/images/biography-bg.png");
+  background-image: url("images/biography-bg.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -97,7 +97,7 @@ p {
 }
 
 .top-banner3 {
-  background-image: url("D:/MY PROFILE SITE/PERSONAL WEBSITE/images/latest-work-bg.png");
+  background-image: url("images/latest-work-bg.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -137,7 +137,7 @@ p {
 }
 
 .top-banner4 {
-  background-image: url("D:/MY PROFILE SITE/PERSONAL WEBSITE/images/footer-bg.png");
+  background-image: url("images/footer-bg.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
