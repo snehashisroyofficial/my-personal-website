@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,700,1,0");
+
+body {
+  margin: 0;
+  font-family: Rubik;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 60%;
+}
+h2 {
+  font-size: 30px;
+  line-height: 60%;
+}
+
+section {
+  height: 500px;
+  padding: 30px 0px 70px 0px;
+}
+
+.orange-highlight {
+  color: rebeccapurple;
+}
+
+/*half-width sections*/
+.half-width {
+  width: 40%;
+  float: left;
+  padding-left: 2%;
+  margin-left: 5%;
+}
+
+.full-width {
+  padding-top: 8%;
+}
+
+.half-width img {
+  width: 80%;
+}
+
+/*paragraph section*/
+p {
+  text-align: justify;
+}
+
+/*link buttons*/
+.link-button {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 30px;
+  border-radius: 8px;
+  background-color: rebeccapurple;
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.link-button:hover {
+  background-color: red;
+}
+
+.link-button::after {
+  font-family: "Material Symbols Rounded";
+  content: "info";
+  font-size: 20px;
+}
+
+/*top banner*/
+.top-banner {
+  background-image: url("D:/MY PROFILE SITE/PERSONAL WEBSITE/images/header-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.top-banner2 {
+  background-image: url("D:/MY PROFILE SITE/PERSONAL WEBSITE/images/biography-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* latest work */
+
+#latest-work-header {
+  text-align: center;
+  padding: 5% 0% 5% 0%;
+}
+.latest-work {
+  display: flex;
+  justify-content: center;
+}
+.latest-work img {
+  width: 20%;
+  float: left;
+  padding-right: 50px;
+}
+
+.top-banner3 {
+  background-image: url("D:/MY PROFILE SITE/PERSONAL WEBSITE/images/latest-work-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* contact us */
+.blue-highlight {
+  color: orangered;
+}
+
+.top-banner4 h2 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+#ceo {
+  color: grey;
+  text-align: center;
+  padding-top: 0px;
+}
+.contact-us {
+  text-align: center;
+}
+
+/* PARAGRAPH */
+.contact-us P {
+  padding-top: 50px;
+  text-align: center;
+  margin: 0% 30% 0% 30%;
+}
+
+.email-button {
+  padding: 10px 20px;
+  margin: 4% 20%;
+  color: white;
+  background-color: rgb(253, 70, 131);
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.top-banner4 {
+  background-image: url("D:/MY PROFILE SITE/PERSONAL WEBSITE/images/footer-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
